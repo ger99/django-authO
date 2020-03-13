@@ -5,12 +5,13 @@
     <title>Title</title>
 </head>
 <body>
-    <h1>HOLA MUNDO, AUN NO TENEMOS NADA</h1>>
     {% if request.user.is_authenticated == False %}
+        <h1>HOLA MUNDO, AUN NO TENEMOS NADA</h1>>
         <li >
             <a  href="/login/auth0">Log In</a>
         </li>
     {% endif %}
+
     {% if request.user.is_authenticated == True %}
         <li >
             <a  href="/perfil">Profile</a>

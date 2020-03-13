@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="" />
+    <list default="true" id="d3c2415a-f008-452b-bdda-7b19f500e195" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Z0Pj3AMmTnPLF7CD4TIEOl549I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,8 +32,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -52,6 +61,7 @@
       <workItem from="1583973173278" duration="3019000" />
       <workItem from="1583983060030" duration="6035000" />
       <workItem from="1584021090188" duration="19972000" />
+      <workItem from="1584070580091" duration="111000" />
     </task>
     <servers />
   </component>
@@ -59,9 +69,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583983056571">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="116" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584070651474">
+      <screen x="0" y="27" width="1317" height="741" />
     </state>
+    <state x="116" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1317.741@0.27.1317.741" timestamp="1584070651474" />
+    <state x="504" y="226" width="374" height="341" key="FileChooserDialogImpl" timestamp="1584070688970">
+      <screen x="0" y="27" width="1317" height="741" />
+    </state>
+    <state x="504" y="226" width="374" height="341" key="FileChooserDialogImpl/0.27.1317.741@0.27.1317.741" timestamp="1584070688970" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583983056571" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1583981509148">
       <screen x="67" y="27" width="1853" height="1053" />
